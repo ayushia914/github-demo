@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 dfhjdh
+=======
+ayushi 
+
+>>>>>>> 2cf548056cd8a805727b9a6449b210be8253348b
 hi ayushi here
