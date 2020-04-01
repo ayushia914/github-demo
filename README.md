@@ -4,4 +4,7 @@
 
 new diff
 
+
+new difftool
+
 new update required
